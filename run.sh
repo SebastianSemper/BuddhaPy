@@ -1,2 +1,2 @@
 #!/bin/bash
-python buddhaPy.py
+python3 buddhaPy.py
